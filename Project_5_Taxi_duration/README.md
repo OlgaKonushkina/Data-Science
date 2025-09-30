@@ -70,7 +70,7 @@
 
 
 
-А теперь переходим по ссылке и знакомимся с проектом [здесь](https://github.com/YaroslavaVob/DataScience/blob/main/ML_Project_5/Project-5._Trip_duration_for_taxi%20github.ipynb).
+А теперь переходим по ссылке и знакомимся с проектом [здесь](https://github.com/OlgaKonushkina/Data-Science/tree/main/Project_5_Taxi_duration).
 
 
 ### Какие библиотеки использовались для анализа:
