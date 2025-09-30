@@ -108,6 +108,6 @@ education, default, housing, loan, contact, month, poutcome определило
 
 **Проект создан на базе языка Python в Jupyter Notebook.**
 
-Автор: Ярослава Вобшаркян\
+Автор: Ольга Конушкина\
 (студент школы SkillFactory по курсу Data Science)
 
