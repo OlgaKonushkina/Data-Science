@@ -4,7 +4,7 @@
 
 ![](https://www.vyatsu.ru/uploads/2015/12/23//large/poisk_raboti.jpg)
 
-**Загрузить и посмотреть исходные данные можно [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)**
+**Загрузить и посмотреть исходные данные можно [здесь]([https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view](https://github.com/OlgaKonushkina/Data-Science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20hh/Project-1._Data%20Analysis%20of%20resumes%20(hh.ru).ipynb))**
 
 Анкета-резюме соискателей включает в себя следующую информацию:
 1. Пол, возраст
