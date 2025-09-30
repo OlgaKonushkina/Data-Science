@@ -91,7 +91,6 @@ education, default, housing, loan, contact, month, poutcome определило
 
 <font color='orange'>ПРИМЕЧАНИЕ</font> После каждого этапа проекта вы увидите подробные выводы. А по завершению вас ждет заключение, в котором будет обобщающий итог по всему проекту.
 
-А теперь переходим по ссылке и знакомимся с проектом [здесь](https://github.com/YaroslavaVob/DataScience_skillfactory/blob/main/Project_4_Classification/Project_4_ML.ipynb).
 
 
 ### Какие библиотеки использовались для анализа:
@@ -108,6 +107,6 @@ education, default, housing, loan, contact, month, poutcome определило
 
 **Проект создан на базе языка Python в Jupyter Notebook.**
 
-Автор: Ярослава Вобшаркян\
+Автор: Ольга Конушкина\
 (студент школы SkillFactory по курсу Data Science)
 
