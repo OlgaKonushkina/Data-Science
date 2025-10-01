@@ -16,7 +16,7 @@
 
 
 
-А теперь переходим по ссылке и знакомимся с мини-проектом [здесь](https://github.com/YaroslavaVob/DataScience/blob/main/Project_A_B_test/Project_A_B_test.ipynb).
+А теперь переходим по ссылке и знакомимся с мини-проектом [здесь](https://github.com/OlgaKonushkina/Data-Science/blob/main/Project_A_B_test/Project_A_B_test.ipynb).
 
 
 ### Какие библиотеки использовались для анализа:
@@ -30,6 +30,5 @@
 
 **Проект создан на базе языка Python в Jupyter Notebook.**
 
-Автор: Ярослава Вобшаркян\
-(студент школы SkillFactory по курсу Data Science)\
-15.08.2024
+Автор: Ольга Конушкина\
+(студент школы SkillFactory по курсу Data Science)
