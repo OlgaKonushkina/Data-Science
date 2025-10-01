@@ -14,4 +14,4 @@
 * Сравнение предсказанных и фактических цен на квартиры.
 * Выявление значимости признаков и доверительных интервалов.
 
-Знакомимся с проектом по [ссылке](https://github.com/YaroslavaVob/DataScience/blob/main/Bayes%20regression/Flats_bayes_lin_regression.ipynb)
+Знакомимся с проектом по [ссылке](https://github.com/OlgaKonushkina/Data-Science/blob/main/%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F/Flats_bayes_lin_regression.ipynb)
