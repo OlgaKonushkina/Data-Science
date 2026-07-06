@@ -91,7 +91,7 @@ education, default, housing, loan, contact, month, poutcome определило
 
 <font color='orange'>ПРИМЕЧАНИЕ</font> После каждого этапа проекта вы увидите подробные выводы. А по завершению вас ждет заключение, в котором будет обобщающий итог по всему проекту.
 
-А теперь переходим по ссылке и знакомимся с проектом [здесь](https://github.com/YaroslavaVob/DataScience_skillfactory/blob/main/Project_4_Classification/Project_4_ML.ipynb).
+А теперь переходим по ссылке и знакомимся с проектом [здесь]([https://github.com/OlgaKonushkina/Data-Science/blob/main/Project_4_Classification/Project_4_ML.ipynb]).
 
 
 ### Какие библиотеки использовались для анализа:
